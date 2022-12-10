@@ -2,6 +2,7 @@
 
 Implementation of your own version of the math.h library.  
 
+This project developed its own version of the standard library math.h in the C programming language. This library implements basic mathematical operations, which are then used in various algorithms.
 
 
 ### Overview of some "math.h" functions
